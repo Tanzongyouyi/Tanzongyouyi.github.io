@@ -2,7 +2,7 @@
 layout: post
 title: "光线追踪计算基础"
 date:   2025-7-18
-tags: [数学研究, 光线追踪]
+tags: [数学]
 comments: true
 author: 谭总有一
 ---
