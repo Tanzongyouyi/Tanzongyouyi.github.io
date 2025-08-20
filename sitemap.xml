@@ -37,4 +37,9 @@
     <priority>1.00</priority>
   </url>
 
+  <url>
+    <loc>https://tanzongyouyi.github.io/pan</loc>
+    <priority>1.00</priority>
+  </url>
+
 </urlset>
