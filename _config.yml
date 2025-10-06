@@ -11,8 +11,8 @@ navigation:
     url: /about
   - name: 分类
     url: /tags
-  - name: 网盘
-    url: /pan
+  - name: 公益镜像源
+    url: /mirror
 
 paginate: 8
 
